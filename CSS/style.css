@@ -1,13 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
-h1{
+/*Indentificador css*/
+#titulo_principal{
     color: #f72585;
     text-align: center;
     margin: 15px;
-
 }
 h2{
     color:#3f37c9 ;
@@ -15,7 +11,7 @@ h2{
 p{
     color: #457b9d;
 }
-/* clase de CSS*/
+/* clases de CSS*/
 .tarjeta{
     border: 10px solid #560bad;
     background-color: #f1faee ;
